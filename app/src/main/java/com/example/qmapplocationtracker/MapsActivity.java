@@ -98,7 +98,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
         });
     }
 
-
+// comment added
     /**
      * Manipulates the map once available.
      * This callback is triggered when the map is ready to be used.

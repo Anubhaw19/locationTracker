@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QMapp Location Tracker</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="enter_longitude">enter longitude</string>
+    <string name="enter_latitude">enter latitude</string>
+    <string name="update">update</string>
+</resources>

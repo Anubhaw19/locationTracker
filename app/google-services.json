@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "45237231726",
+    "firebase_url": "https://qmap-9c94d.firebaseio.com",
+    "project_id": "qmap-9c94d",
+    "storage_bucket": "qmap-9c94d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45237231726:android:1a73821691c118e580467f",
+        "android_client_info": {
+          "package_name": "com.example.qmapplocationtracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45237231726-9peo8ocktsedc9iqs7m2asl55d0svsq8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.qmapplocationtracker",
+            "certificate_hash": "23a8f61c4a6831a4829f1237bda918740d921363"
+          }
+        },
+        {
+          "client_id": "45237231726-i0tk31vt6v7pbkqh04cqq065erskj8cq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASLvCSRt7RdPI4dEBmb9LayjqA08wIXXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "45237231726-i0tk31vt6v7pbkqh04cqq065erskj8cq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

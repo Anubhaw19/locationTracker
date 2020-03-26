@@ -1,0 +1,2 @@
+rootProject.name='QMapp Location Tracker'
+include ':app'
